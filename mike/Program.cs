@@ -18,6 +18,7 @@ namespace mike
             int menuOption = Convert.ToInt32(Console.ReadLine());
             if (menuOption == 5) ;
                 break;
+            int a = Convert.ToInt32(Console.ReadLine());
 
         }
     }
