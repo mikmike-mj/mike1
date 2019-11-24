@@ -10,6 +10,7 @@ namespace mike
     {
         static void Main(string[] args)
         {
+            conso
         }
     }
 }
