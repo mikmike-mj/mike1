@@ -16,7 +16,8 @@ namespace mike
             Console.WriteLine("4. Podziel liczne");
             Console.WriteLine("5. Wyjscie");
             int menuOption = Convert.ToInt32(Console.ReadLine());
-
+            if (menuOption == 5) ;
+                break;
 
         }
     }
